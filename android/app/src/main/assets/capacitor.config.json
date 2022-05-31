@@ -1,0 +1,6 @@
+{
+	"appId": "com.swottle.wordlehelper",
+	"appName": "WordleHelper",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
