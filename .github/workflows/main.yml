@@ -21,7 +21,7 @@ jobs:
           uses: Azure/pipelines@v1
           with:
             azure-devops-project-url: https://dev.azure.com/bloomfieldmarc/WordleHelper
-            azure-pipeline-name: 'Set up CI with Azure Pipelines'
+            azure-pipeline-name: 'justabum.wordle-helper'
             azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN }}
             
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
